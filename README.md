@@ -1,3 +1,16 @@
+# What the hell is this??
+Exactly what it sounds like-- P-Slice for mac.
+
+This is NOT official. I am NOT affiliated with mikolka9144, and I am CERTAINLY not associated with anyone on the Psych Engine or Funkin' teams.
+
+
+
+
+
+
+
+
+
 # Friday Night Funkin' - P-Slice Engine
 This engine was originally meant to be a playground for making Psych Engine compatible with linux, but after some attempts in porting V-Slice content became a crossover between Psych Engine and V-Slice (also known as base game).
 
